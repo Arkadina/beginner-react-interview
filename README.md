@@ -1,4 +1,4 @@
-# beginner react interview
+# Beginner React Interview
 
 Challenge taken from <a href="https://www.youtube.com/watch?v=BJc5cX_D1Lg&ab_channel=WebDevCody">this video</a>.
 
